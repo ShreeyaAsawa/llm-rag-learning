@@ -46,8 +46,8 @@
 ### 1.Clone the repository
 
 ```bash
-git clone https://github.com/your-username/shreeya-rag-system.git
-cd shreeya-rag-system
+git clone https://github.com/ShreeyaAsawa/llm-rag-learning.git
+cd llm-rag-learning
 ```
 2.Install Dependencies
 Ensure Python 3.8+ is installed. Then run:
